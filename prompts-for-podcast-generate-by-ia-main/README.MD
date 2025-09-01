@@ -111,7 +111,7 @@ O objetivo é **criar um podcast totalmente automatizado** com o uso de **ferram
 
 
 <p>
-  <img align="left" margin="10" width="100" src="https://avatars.githubusercontent.com/u/00000000?v=4" style="border-radius:50%;" />
+
 </p>
 
 
