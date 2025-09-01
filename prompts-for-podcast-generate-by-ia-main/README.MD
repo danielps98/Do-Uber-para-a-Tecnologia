@@ -108,6 +108,10 @@ O objetivo é **criar um podcast totalmente automatizado** com o uso de **ferram
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-![Snake animation](https://github.com/DanielPds/DanielPds/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielPds&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPds&layout=compact&theme=tokyonight" />
+</p>
+
 
 
