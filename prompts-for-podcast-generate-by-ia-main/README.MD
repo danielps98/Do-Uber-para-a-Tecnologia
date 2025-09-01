@@ -108,6 +108,14 @@ O objetivo é **criar um podcast totalmente automatizado** com o uso de **ferram
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+<p>
+  <img align="left" margin="10" width="100" src="https://avatars.githubusercontent.com/u/00000000?v=4" style="border-radius:50%;" />
+</p>
+
+
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielPds&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPds&layout=compact&theme=tokyonight" />
