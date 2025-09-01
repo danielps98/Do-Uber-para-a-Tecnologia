@@ -114,7 +114,7 @@ O objetivo é **criar um podcast totalmente automatizado** com o uso de **ferram
 
 
 
-
+<br><<br><br><<br><br><<br><br><<br><br><<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielPds&show_icons=true&theme=tokyonight" />
