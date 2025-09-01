@@ -66,7 +66,8 @@ Para criar seu próprio podcast automatizado, siga os passos abaixo:
 </p>
 
 **Daniel Pereira da Silva**  
-🔗 [Instagram](https://www.instagram.com/dael_p1reira/)  
+🔗[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
+(https://www.instagram.com/dael_p1reira/)  
 <a href="https://www.linkedin.com/in/seu-usuario/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
